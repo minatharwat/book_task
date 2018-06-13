@@ -1,0 +1,10 @@
+<resources>
+    <string name="get_pc">get percentage</string>
+    <string name="get_order">  get order   </string>
+    <string name="app_name">task_gg</string>
+
+    <string name="user">Enter User ID</string>
+    <string name="user__">Users  List</string>
+
+
+</resources>
